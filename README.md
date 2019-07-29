@@ -1,1 +1,1 @@
-# Java-manuel
+Dummy template
